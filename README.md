@@ -1,7 +1,7 @@
 # Тестовое задание на стажировку "Гринатом"
 
 
-![Метрики](https://raw.githubusercontent.com/genalll/test_ml/main/rating/static/3.png)
+![Метрики](https://github.com/Dimonius-73/1/blob/main/3.png)
 
 
 
@@ -28,7 +28,7 @@
 
 Для оценки позитивная и негативная направленность рецензии.
 
-![Метрики](https://github.com/Dimonius-73/1/blob/main/3.png)
+
 
 
 Для прогнозирования рейтинга фильма на основании рецензии
