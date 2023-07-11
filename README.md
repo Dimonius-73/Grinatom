@@ -38,7 +38,7 @@ https://ai.stanford.edu/~amaas/data/sentiment. Более подробное о�
 
 ##### Ссылка на презентацию проекта: https://github.com/genalll/test_ml/raw/main/presentation.pdf
 
-##### Блокнот с обучением моделей и подготовкой данных в корневой папке проекта grinatom_movies_ipynb.ipynb  (https://github.com/Dimonius-73/Grinatom/blob/main/grinatom_movies_ipynb.ipynb)
+##### Блокнот с обучением моделей и подготовкой данных в корневой папке (https://github.com/Dimonius-73/Grinatom/blob/main/grinatom_movies_ipynb.ipynb)
 
 
 
