@@ -35,9 +35,6 @@ https://ai.stanford.edu/~amaas/data/sentiment. Более подробное о�
 ![Метрики](https://github.com/Dimonius-73/Grinatom/blob/main/movies.png)
 
 
-Для прогнозирования рейтинга фильма на основании рецензии
-
-![Метрики](https://raw.githubusercontent.com/genalll/test_ml/main/rating/static/1.png)
 
 ##### Ссылка на презентацию проекта: https://github.com/genalll/test_ml/raw/main/presentation.pdf
 
@@ -45,4 +42,4 @@ https://ai.stanford.edu/~amaas/data/sentiment. Более подробное о�
 
 
 
-* В папке files - предобученные модели.# 1
+* В папке files - предобученные модели.
