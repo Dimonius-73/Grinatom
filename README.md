@@ -26,14 +26,14 @@ https://ai.stanford.edu/~amaas/data/sentiment. Более подробное о�
 1.	pip install Django  
 2.	python manage.py runserver 
 
-![Метрики](https://raw.githubusercontent.com/genalll/test_ml/main/rating/static/1.png)
+![Метрики](https://github.com/Dimonius-73/Grinatom/blob/main/Win.png)
 
 
 
 Проект будет доступен локально http://127.0.0.1:8000/ .
 В папке files - предобученные модели.
 
-
+![Метрики](https://github.com/Dimonius-73/Grinatom/blob/main/movies.png)
 
 
 Для прогнозирования рейтинга фильма на основании рецензии
