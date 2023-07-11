@@ -28,7 +28,7 @@
 
 Для оценки позитивная и негативная направленность рецензии.
 
-![Метрики](https://github.com/genalll/test_ml/raw/main/rating/static/2.png)
+![Метрики](https://github.com/Dimonius-73/1/blob/main/3.png)
 
 
 Для прогнозирования рейтинга фильма на основании рецензии
