@@ -42,4 +42,4 @@ https://ai.stanford.edu/~amaas/data/sentiment. Более подробное о�
 
 
 
-* В папке files - предобученные модели.
+* В папке files ![Метрики](https://github.com/Dimonius-73/Grinatom/tree/main/rating/files) - предобученные модели.
