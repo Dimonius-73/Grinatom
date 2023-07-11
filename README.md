@@ -31,7 +31,6 @@ https://ai.stanford.edu/~amaas/data/sentiment. Более подробное о�
 
 
 Проект будет доступен локально http://127.0.0.1:8000/ .
-В папке files - предобученные модели.
 
 ![Метрики](https://github.com/Dimonius-73/Grinatom/blob/main/movies.png)
 
